@@ -67,6 +67,12 @@ p:last-letter{
     }
 }
 
+@media (max-width : 950px) {
+    .screen p{
+        font-size: 5em;
+    }
+}
+
 @media (max-width : 768px) {
     .screen{
         height: 25vh;
